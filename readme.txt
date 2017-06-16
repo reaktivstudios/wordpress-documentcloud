@@ -1,5 +1,5 @@
 === DocumentCloud ===
-Contributors: chrisamico, reefdog, aschweigert
+Contributors: chrisamico, reefdog, bcampeau, aschweigert
 Tags: documentcloud, documents, journalism, reporting, research
 Requires at least: 3.5
 Tested up to: 4.8
