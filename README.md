@@ -87,6 +87,9 @@ If you find yourself absolutely needing to expire the cache, though, you have tw
 
 ## Changelog
 
+### 0.4.4
+* Remove unused `wide_assets` post meta (#51) (@aschweigert)
+
 ### 0.4.3
 * Separate the oEmbed config options (provided as params to the endpoint) from the embed config options (encoded as params on the `url`) (#48)
 * Rename `default_page` and `default_note` options back to `page` and `note` (#47)
