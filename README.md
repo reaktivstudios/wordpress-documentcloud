@@ -1,5 +1,7 @@
 # DocumentCloud WordPress plugin
 
+This is a fork of the original plugin, since it hasn't been updated in a few years.
+
 The DocumentCloud WordPress plugin lets you embed [DocumentCloud](https://www.documentcloud.org/) resources into WordPress content using [shortcodes](https://codex.wordpress.org/Shortcode_API).
 
     [documentcloud url="https://www.documentcloud.org/documents/282753-lefler-thesis.html"]
